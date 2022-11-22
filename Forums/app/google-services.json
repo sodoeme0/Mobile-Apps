@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78394416969",
+    "project_id": "forum-79a28",
+    "storage_bucket": "forum-79a28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78394416969:android:3d9d8442e2659bba288498",
+        "android_client_info": {
+          "package_name": "edu.uncc.hw07"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78394416969-hurqjkopp4dupk8li75fp1kd2n8s9134.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsaz9nRjq0vgvtf7TFAHooqN5HV9BzaYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78394416969-hurqjkopp4dupk8li75fp1kd2n8s9134.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
